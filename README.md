@@ -10,11 +10,10 @@ This is a **simple keylogger** built using **Python** and the `pynput` library. 
 ✅ Ignores special keys like Shift, Ctrl, and Alt.  
 
 ## **Usage**  
-1. Run the script.  
-2. Provide consent for logging.  
-3. Enter a word to track.  
-4. The script will track keystrokes and display the word count in real time.  
-5. All logged keystrokes will be saved in `log.txt`.  
+1. Run the script.    
+2. Enter a word to track.  
+3. The script will track keystrokes and display the word count in real time.  
+4. All logged keystrokes will be saved in `log.txt`.  
 
 ## **Requirements**  
 - Python 3.x  
